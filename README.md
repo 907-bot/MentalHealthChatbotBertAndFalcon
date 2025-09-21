@@ -7,3 +7,8 @@ Power  Point Presentation is uploaded below as a github page go through for the 
 It offers multi language support with English, Hindi, Telugu, Kannada, Malayalam
 **below is the link**
 https://907-bot-collab.github.io/mentalhealthchatbotppt/
+
+
+I have already uploaded the .ipynb file, where only email automation is missing 
+
+Thank you!!
